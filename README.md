@@ -1,4 +1,4 @@
 # data_ingest
 sk c&amp;c intensive course lv2, data engineering
 
-#### 정근화
+#### SKC&C 10408 정근화 
